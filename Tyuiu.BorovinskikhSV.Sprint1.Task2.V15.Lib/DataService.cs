@@ -1,11 +1,11 @@
 ﻿using tyuiu.cources.programming.interfaces.Sprint1;
 namespace Tyuiu.BorovinskikhSV.Sprint1.Task2.V12.Lib
 {
-    public class DataService : ISprint1Task2V12
+    public class DataService : ISprint1Task2V15
     {
-        public int CalculateParallelepipedVolume(int value, int valueTwo, int valueThree)
+        public int CalculateCubeVolume(int value)
         {
-            return value * valueTwo * valueThree;
+            return value * value * value;
         }
     }
 }

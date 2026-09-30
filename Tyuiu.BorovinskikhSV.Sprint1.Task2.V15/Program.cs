@@ -32,7 +32,7 @@ namespace Tyuiu.BorovinskikhSV.Sprint1.Task2.V12
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
 
-            Console.WriteLine("Объем куба = " + ds.CalculateParallelepipedVolume(x, x, x));
+            Console.WriteLine("Объем куба = " + ds.CalculateCubeVolume(x));
 
             Console.ReadLine();
         }

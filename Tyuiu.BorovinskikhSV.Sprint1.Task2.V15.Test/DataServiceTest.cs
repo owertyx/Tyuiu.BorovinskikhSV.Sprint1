@@ -9,7 +9,7 @@ namespace Tyuiu.BorovinskikhSV.Sprint1.Task2.V12.Test
         {
             DataService ds = new DataService();
             int x = 2;
-            var res = ds.CalculateParallelepipedVolume(x, x, x);
+            var res = ds.CalculateCubeVolume(x);
             Assert.AreEqual(8, res);
         }
     }
