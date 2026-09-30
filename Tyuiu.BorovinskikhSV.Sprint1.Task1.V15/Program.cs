@@ -12,7 +12,7 @@ namespace Tyuiu.BorovinskikhSV.Sprint1.Task2.V12
             Console.WriteLine("* Спринт #1                                                               *");
             Console.WriteLine("* Тема: Базовые навыки работы в С#                                        *");
             Console.WriteLine("* Задание #2                                                              *");
-            Console.WriteLine("* Вариант #15                                                              *");
+            Console.WriteLine("* Вариант #12                                                              *");
             Console.WriteLine("* Выполнил: Боровинских Степан Владимирович | СМАРТб-26-1                 *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
