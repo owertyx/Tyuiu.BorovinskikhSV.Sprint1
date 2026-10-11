@@ -5,11 +5,11 @@ namespace Tyuiu.BorovinskikhSV.Sprint1.Task7.V12.Test
     public class DataServiceTest
     {
         [TestMethod]
-        public void ValidTriangleArea()
+        public void ValidCalculate()
         {
             DataService ds = new DataService();
 
-            double res = ds.TriangleArea(2, 1);
+            double res = ds.Calculate(2, 1);
             double wait = 45; 
 
             Assert.AreEqual(wait, res);

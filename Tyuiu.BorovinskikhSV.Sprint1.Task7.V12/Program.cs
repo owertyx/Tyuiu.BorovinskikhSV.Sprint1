@@ -33,7 +33,7 @@ namespace  Tyuiu.BorovinskikhSV.Sprint1.Task7.V12
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
 
-            Console.WriteLine(ds.TriangleArea(x, y));
+            Console.WriteLine(ds.Calculate(x, y));
             Console.ReadKey();
         }
     }
